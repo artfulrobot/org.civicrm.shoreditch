@@ -167,8 +167,9 @@
 }
 
 #crm-main-content-wrapper form .messages.crm-error {
-  position: absolute;
-  visibility: hidden;
+  // Commented out until greater wisdom is achieved https://github.com/civicrm/org.civicrm.shoreditch/issues/187
+  //position: absolute;
+  //visibility: hidden;
 }
 
 div.error,
